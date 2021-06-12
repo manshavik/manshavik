@@ -2,8 +2,8 @@
 I'm Manshavi Kumar<br>
 a Backend Developer, Data Scientist</h3>
 
-<a href="https://www.linkedin.com/in/manshavi" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/manshavi" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
 <a>
 <h3>🛠️ Tool and Technologies</h3>
 <p align="center">
