@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <h3>Hi there! 👋🤓<br>
 I'm Manshavi Kumar<br>
 a Backend Developer, Data Scientist</h3>
